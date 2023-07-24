@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "canvas": "^2.11.0",
+    "jsdom-quokka-plugin": "^1.0.16"
+  }
+}
